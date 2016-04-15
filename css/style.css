@@ -53,9 +53,9 @@ ul, ol { list-style-type:none; }
 .middle {
 		margin:0 auto;
 		width:700px;
-		height:720px;
+		height:820px;
 		background:#8EBFC8;
-		margin-bottom:30px;
+		margin-top:100px;
 		border-radius:20px;
 }
 .middle ul li{
@@ -63,16 +63,16 @@ ul, ol { list-style-type:none; }
 		height:100px;
 }
 .bottom {
-		width:580px;
+		width:930px;
 		height:100px;
-		
+		margin-top:200px;		
 }
 .bottom ul{
 	overflow:hidden;
 }
 .bottom ul li{
-	height:100px;
-	width:114px;
+	height:184px;
+	width:184px;
 	border:1px solid #8F8889;
 	background:#0C0606;
 	float:left;
