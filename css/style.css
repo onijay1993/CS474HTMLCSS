@@ -5,55 +5,55 @@ table{ border-collapse:collapse;}
 ul, ol { list-style-type:none; }
 /*content */
 .content {
-		width:580px;
+		width:930px;
 		background: #F0F0F0;
 		border: 1px solid #8F8889;
-		height: 700px;
+		height: 1120px;
 		margin: 0 auto;
 		border-radius:10px;
 	}
 .Banner {
-		width:580px;
-		height:150px;
+		width:930px;
+		height:250px;
 		
 }
 .Help{
 	float:left;
-	width:100px;
-	height:150px;
+	width:200px;
+	height:250px;
 }
 #Help{
-	width:100px;
-	height:100px;
+	width:200px;
+	height:200px;
 	border-right: 1px solid #8F8889;
 	border-bottom: 1px solid #8F8889;
 }
 .Logo{
 	float:left;
-	width:380px;
-	height:150px;
+	width:510px;
+	height:250px;
 }
 #myImage{
-	width:380px;
-	height:150px;
+	width:510px;
+	height:250px;
 }
 .Logout{
 	float:left;
-	width:100px;
-	height:150px;
+	width:200px;
+	height:200px;
 	
 }
 #Logout{
-	width:100px;
-	height:80px;
-	padding:10px 0 10px 0;
+	width:200px;
+	height:180px;
+	padding:10px 0 10px 10px;
 	border-bottom: 1px solid #8F8889;
 	border-left: 1px solid #8F8889;
 }
 .middle {
 		margin:0 auto;
-		width:500px;
-		height:420px;
+		width:700px;
+		height:720px;
 		background:#8EBFC8;
 		margin-bottom:30px;
 		border-radius:20px;
